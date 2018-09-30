@@ -2,7 +2,9 @@
 This repository is a collection of various article links, websites, infographics and papers which will help anyone learn the basics of Machine Learning.
 
 ## Books
-1. [Python Machine Learning](http://books.tarsoit.com/Python%20Machine%20Learning.pdf)
+1. [Python Machine Learning](http://books.tarsoit.com/Python%20Machine%20Learning.pdf), Sebastian Raschka
+2. [Deep Learning](https://www.deeplearningbook.org), Ian Goodfellow, Yoshua Bengio and Aaron Courville
+3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com), Michael Nielsen
 
 ## Websites
 1. [r2d3](http://www.r2d3.us) nice visualizations for understanding ML techniques
