@@ -12,6 +12,7 @@ This repository is a collection of various article links, websites, infographics
 3. [skymind](https://skymind.ai/wiki/) basic concepts of AI
 4. [OpenAI](https://openai.com)
 5. [DeepMind](https://deepmind.com)
+6. [Distill](https://distill.pub) for clear explanations of machine learning
 
 ## Courses
 1. [cs231n](https://cs231n.github.io) Convolutional Neural Networks
