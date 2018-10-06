@@ -35,3 +35,4 @@ This repository is a collection of various article links, websites, infographics
 8. [Autoencoders](https://blog.keras.io/building-autoencoders-in-keras.html) Keras
 9. Bucket Iterator [R2RT](https://r2rt.com/recurrent-neural-networks-in-tensorflow-iii-variable-length-sequences.html)
 10. Deep Learning [tutorials](http://ufldl.stanford.edu/tutorial/)
+11. [Image Segmentation](https://www.jeremyjordan.me/semantic-segmentation/) techniques 
