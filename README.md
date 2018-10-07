@@ -40,3 +40,4 @@ This repository is a collection of various article links, websites, infographics
 
 ## Videos
 1. [Entropy, Cross-Entropy and KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
+2. [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) CNN lecture series.
