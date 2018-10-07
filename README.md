@@ -13,7 +13,7 @@ This repository is a collection of various article links, websites, infographics
 4. [OpenAI](https://openai.com)
 5. [DeepMind](https://deepmind.com)
 6. [Distill](https://distill.pub) for clear explanations of machine learning
-7. [Jeremy Jordan](https://www.jeremyjordan.me)
+7. [Jeremy Jordan](https://www.jeremyjordan.me) blog
 8. [Daniil's blog](http://warmspringwinds.github.io)
 
 ## Courses
