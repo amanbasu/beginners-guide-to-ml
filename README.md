@@ -37,3 +37,6 @@ This repository is a collection of various article links, websites, infographics
 10. Deep Learning [tutorials](http://ufldl.stanford.edu/tutorial/)
 11. [Image Segmentation](https://www.jeremyjordan.me/semantic-segmentation/) techniques
 12. [Transpose Convolution](https://datascience.stackexchange.com/a/20176)
+
+## Videos
+1. [Entropy, Cross-Entropy and KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
