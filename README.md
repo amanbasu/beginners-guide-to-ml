@@ -6,13 +6,15 @@ This repository is a collection of various article links, websites, infographics
 2. [Deep Learning](https://www.deeplearningbook.org), Ian Goodfellow, Yoshua Bengio and Aaron Courville
 3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com), Michael Nielsen
 
-## Websites
+## Websites and Blogs
 1. [r2d3](http://www.r2d3.us) nice visualizations for understanding ML techniques
 2. [Qure.ai](http://qure.ai) for AI in radiology
 3. [skymind](https://skymind.ai/wiki/) basic concepts of AI
 4. [OpenAI](https://openai.com)
 5. [DeepMind](https://deepmind.com)
 6. [Distill](https://distill.pub) for clear explanations of machine learning
+7. [Jeremy Jordan](https://www.jeremyjordan.me)
+8. [Daniil's blog](http://warmspringwinds.github.io)
 
 ## Courses
 1. [cs231n](https://cs231n.github.io) Convolutional Neural Networks
