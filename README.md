@@ -39,7 +39,7 @@ This repository is a collection of various article links, websites, infographics
 6. Understanding [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 7. [Speech Processing](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
 8. [Autoencoders](https://blog.keras.io/building-autoencoders-in-keras.html) Keras
-9. Bucket Iterator [R2RT](https://r2rt.com/recurrent-neural-networks-in-tensorflow-iii-variable-length-sequences.html)
+9. [Bucket Iterator](https://r2rt.com/recurrent-neural-networks-in-tensorflow-iii-variable-length-sequences.html) R2RT
 10. Deep Learning [tutorials](http://ufldl.stanford.edu/tutorial/)
 11. [Image Segmentation](https://www.jeremyjordan.me/semantic-segmentation/) techniques
 12. [Transpose Convolution](https://datascience.stackexchange.com/a/20176)
