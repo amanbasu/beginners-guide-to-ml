@@ -16,6 +16,8 @@ This repository is a collection of various article links, websites, infographics
 7. [Jeremy Jordan](https://www.jeremyjordan.me) blog
 8. [Daniil's blog](http://warmspringwinds.github.io)
 9. [Lil'Log](https://lilianweng.github.io/lil-log/)
+10. [Google AI Blog](https://ai.googleblog.com)
+11. [Uber AI Labs](https://eng.uber.com/tag/uber-ai-labs/)
 
 ## Courses
 1. [cs231n](https://cs231n.github.io) Convolutional Neural Networks
