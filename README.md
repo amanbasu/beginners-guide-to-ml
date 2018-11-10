@@ -15,6 +15,7 @@ This repository is a collection of various article links, websites, infographics
 6. [Distill](https://distill.pub) for clear explanations of machine learning
 7. [Jeremy Jordan](https://www.jeremyjordan.me) blog
 8. [Daniil's blog](http://warmspringwinds.github.io)
+9. [Lil'Log](https://lilianweng.github.io/lil-log/)
 
 ## Courses
 1. [cs231n](https://cs231n.github.io) Convolutional Neural Networks
@@ -25,6 +26,7 @@ This repository is a collection of various article links, websites, infographics
 6. [Fast.ai](http://www.fast.ai)
 7. [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng, Coursera
 8. [Deeplearning.ai](https://www.coursera.org/specializations/deep-learning), DL Specialization by Andrew Ng, Coursera
+9. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ## Articles and Tutorials
 1. Understanding of [t-SNE](https://lvdmaaten.github.io/tsne/)
@@ -40,6 +42,7 @@ This repository is a collection of various article links, websites, infographics
 11. [Image Segmentation](https://www.jeremyjordan.me/semantic-segmentation/) techniques
 12. [Transpose Convolution](https://datascience.stackexchange.com/a/20176)
 13. [cs231n](http://cs231n.github.io/convolutional-networks/) Andrej Karpathy
+14. Key Papers in [Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 ## Videos
 1. [Entropy, Cross-Entropy and KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
