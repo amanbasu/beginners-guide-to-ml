@@ -44,7 +44,7 @@ This repository is a collection of various article links, websites, infographics
 11. [Image Segmentation](https://www.jeremyjordan.me/semantic-segmentation/) techniques
 12. [Transpose Convolution](https://datascience.stackexchange.com/a/20176)
 13. [cs231n](http://cs231n.github.io/convolutional-networks/) Andrej Karpathy
-14. Key Papers in [Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+14. [Key Papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html) in Deep RL
 
 ## Videos
 1. [Entropy, Cross-Entropy and KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
