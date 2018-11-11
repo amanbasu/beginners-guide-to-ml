@@ -1,5 +1,5 @@
 # Beginners Guide To Machine Learning and Artificial Intelligence
-This repository is a collection of various article links, websites, infographics and papers which will help anyone learn the basics of Machine Learning.
+This repository is a collection of various article links, websites, infographics and papers which will help anyone learn the basics of Machine Learning and Deep Learning.
 
 ## Books
 1. [Deep Learning](https://www.deeplearningbook.org), Ian Goodfellow, Yoshua Bengio and Aaron Courville
