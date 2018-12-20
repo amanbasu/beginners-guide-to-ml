@@ -49,3 +49,16 @@ This repository is a collection of various article links, websites, infographics
 ## Videos
 1. [Entropy, Cross-Entropy and KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 2. [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) CNN lecture series.
+
+## Cheatsheets
+1. [Pandas](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8.pdf)
+2. [Numpy](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/e9f83f72-a81b-42c7-af44-4e35b48b20b7.pdf)
+3. [Matplotlib](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b.pdf)
+4. [Seaborn](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/f9f06e72-519a-4722-9912-b5de742dbac4.pdf)
+5. [Scikit-learn](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/5433fa18-9f43-44cc-b228-74672efcd116.pdf)
+6. [Keras](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/94fc681d-5422-40cb-a129-2218e9522f17.pdf)
+7. [Python Basics](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/e30fbcd9-f595-4a9f-803d-05ca5bf84612.pdf)
+8. [Importing Data](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/50d31142-3de0-4159-89b9-18b718a728ef.pdf)
+9. [CNN](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+10. [RNN](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+11. [Deep Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
