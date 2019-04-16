@@ -8,7 +8,7 @@ This repository is a collection of various article links, websites, infographics
 
 ## Websites and Blogs
 1. [r2d3](http://www.r2d3.us) nice visualizations for understanding ML techniques
-2. [Qure.ai](http://qure.ai) for AI in radiology
+2. [Qure.ai](http://blog.qure.ai/) for AI in radiology
 3. [skymind](https://skymind.ai/wiki/) basic concepts of AI
 4. [OpenAI](https://openai.com)
 5. [DeepMind](https://deepmind.com)
