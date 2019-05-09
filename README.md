@@ -3,9 +3,9 @@ This repository is a collection of various article links, websites, infographics
 
 ## Books
 1. [Deep Learning](https://www.deeplearningbook.org), Ian Goodfellow, Yoshua Bengio and Aaron Courville
-2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com), Michael Nielsen
-3. [Python Machine Learning](http://books.tarsoit.com/Python%20Machine%20Learning.pdf), Sebastian Raschka
-4. [The hundred-page ML book](http://themlbook.com/wiki/doku.php), Andriy Burkov
+2. [The hundred-page ML book](http://themlbook.com/wiki/doku.php), Andriy Burkov
+3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com), Michael Nielsen
+4. [Python Machine Learning](http://books.tarsoit.com/Python%20Machine%20Learning.pdf), Sebastian Raschka
 
 ## Websites and Blogs
 1. [r2d3](http://www.r2d3.us) nice visualizations for understanding ML techniques
