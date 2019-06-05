@@ -67,3 +67,27 @@ This repository is a collection of various article links, websites, infographics
 
 ## GitHub Repositories
 1. Goku Mohandas [practicalAI](https://github.com/GokuMohandas/practicalAI)
+
+## Datasets
+1. [Grand Challenge](https://grand-challenge.org/challenges/)
+2. [Kaggle](https://www.kaggle.com/datasets)
+3. [Visual Data](https://www.visualdata.io)
+4. [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Musk+(Version+2))
+5. [SkyMind](https://skymind.ai/wiki/open-datasets
+6. [deeplearning.net](http://deeplearning.net/datasets/)
+7. [AWS](https://registry.opendata.aws)
+8. [Microsoft](https://msropendata.com)
+9. [GitHub](https://github.com/awesomedata/awesome-public-datasets)
+10. [Chahub](https://chahub.org)
+
+## Hackathons
+1. [Machine Hack](https://www.machinehack.com/all-courses/)
+2. [OpenEd.ai](http://opened.ai/index.html)
+3. [Kaggle](https://www.kaggle.com/competitions)
+4. [TechGig](https://www.techgig.com/hackathon/ml_hackathon)
+5. [OpenML](https://www.openml.org/home)
+6. [HackerEarth](https://www.hackerearth.com/challenges/)
+
+## Pretrained Models
+1. [ModelZoo](https://modelzoo.co)
+2. [IBM](https://developer.ibm.com/exchanges/models/all/category/artificial-intelligence/)
