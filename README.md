@@ -94,3 +94,4 @@ This repository is a collection of various article links, websites, infographics
 ## Pretrained Models
 1. [ModelZoo](https://modelzoo.co)
 2. [IBM](https://developer.ibm.com/exchanges/models/all/category/artificial-intelligence/)
+3. [Kaggle](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/discussion/30134)
