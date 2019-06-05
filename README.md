@@ -51,6 +51,9 @@ This repository is a collection of various article links, websites, infographics
 ## Videos
 1. [Entropy, Cross-Entropy and KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 2. [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) CNN lecture series.
+3. Deep Reinforcement Learning [Bootcamp](https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos)
+4. [Deep Unsupervised Learning](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) by UC Berkeley.
+5. ML with python from [Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v).
 
 ## Cheatsheets
 1. [Pandas](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8.pdf)
