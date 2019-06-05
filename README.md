@@ -1,4 +1,4 @@
-# Beginners Guide To Machine Learning and Artificial Intelligence
+# Deep Learning Resources
 This repository is a collection of various article links, websites, infographics and papers which will help anyone learn the concepts of Machine Learning and Deep Learning.
 
 ## Books
