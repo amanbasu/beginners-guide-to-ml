@@ -49,9 +49,9 @@ This repository is a collection of various article links, websites, infographics
 14. [Key Papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html) in Deep RL
 
 ## Videos
-1. [Entropy, Cross-Entropy and KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
+1. [Entropy, Cross-Entropy and KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8).
 2. [cs231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) CNN lecture series.
-3. Deep Reinforcement Learning [Bootcamp](https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos)
+3. Deep Reinforcement Learning [Bootcamp](https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos).
 4. [Deep Unsupervised Learning](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) by UC Berkeley.
 5. ML with python from [Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v).
 
@@ -76,7 +76,7 @@ This repository is a collection of various article links, websites, infographics
 2. [Kaggle](https://www.kaggle.com/datasets)
 3. [Visual Data](https://www.visualdata.io)
 4. [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Musk+(Version+2))
-5. [SkyMind](https://skymind.ai/wiki/open-datasets
+5. [SkyMind](https://skymind.ai/wiki/open-datasets)
 6. [deeplearning.net](http://deeplearning.net/datasets/)
 7. [AWS](https://registry.opendata.aws)
 8. [Microsoft](https://msropendata.com)
