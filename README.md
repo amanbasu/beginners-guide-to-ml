@@ -103,6 +103,6 @@ This repository is a collection of various article links, websites, infographics
 3. [Kaggle](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/discussion/30134)
 
 ## Other Guides
-1. [ML Resources](https://sgfin.github.io/learning-resources/)
-2. [Incomplete DL Guide](https://github.com/sannykim/deep-learning-guide)
+1. [ML Resources](https://sgfin.github.io/learning-resources/) by Sam Finlayson
+2. [Incomplete DL Guide](https://github.com/sannykim/deep-learning-guide) by Sanny Kim
 
