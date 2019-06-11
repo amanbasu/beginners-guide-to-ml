@@ -71,7 +71,6 @@ This repository is a collection of various article links, websites, infographics
 
 ## GitHub Repositories
 1. Goku Mohandas [practicalAI](https://github.com/GokuMohandas/practicalAI)
-2. [Incomplete DL Guide](https://github.com/sannykim/deep-learning-guide)
 
 ## Datasets
 1. [Grand Challenge](https://grand-challenge.org/challenges/)
@@ -97,3 +96,7 @@ This repository is a collection of various article links, websites, infographics
 1. [ModelZoo](https://modelzoo.co)
 2. [IBM](https://developer.ibm.com/exchanges/models/all/category/artificial-intelligence/)
 3. [Kaggle](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/discussion/30134)
+
+## Other Guides
+1. [Incomplete DL Guide](https://github.com/sannykim/deep-learning-guide)
+2. [ML Resources](https://sgfin.github.io/learning-resources/)
