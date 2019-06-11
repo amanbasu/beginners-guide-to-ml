@@ -66,10 +66,11 @@ This repository is a collection of various article links, websites, infographics
 8. [Importing Data](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/50d31142-3de0-4159-89b9-18b718a728ef.pdf)
 9. [CNN](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 10. [RNN](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
-11. [Deep Learning Tips and Tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+11. [AI/ML/DL](https://stanford.edu/~shervine/teaching/)
 
 ## GitHub Repositories
 1. Goku Mohandas [practicalAI](https://github.com/GokuMohandas/practicalAI)
+2. [Incomplete DL Guide](https://github.com/sannykim/deep-learning-guide)
 
 ## Datasets
 1. [Grand Challenge](https://grand-challenge.org/challenges/)
