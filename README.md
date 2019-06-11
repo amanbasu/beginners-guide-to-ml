@@ -31,6 +31,7 @@ This repository is a collection of various article links, websites, infographics
 7. [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng, Coursera
 8. [Deeplearning.ai](https://www.coursera.org/specializations/deep-learning), DL Specialization by Andrew Ng, Coursera
 9. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+10. [Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 ## Articles and Tutorials
 1. Understanding of [t-SNE](https://lvdmaaten.github.io/tsne/)
