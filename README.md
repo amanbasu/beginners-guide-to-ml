@@ -6,6 +6,7 @@ This repository is a collection of various article links, websites, infographics
 2. [The hundred-page ML book](http://themlbook.com/wiki/doku.php), Andriy Burkov
 3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com), Michael Nielsen
 4. [Python Machine Learning](http://books.tarsoit.com/Python%20Machine%20Learning.pdf), Sebastian Raschka
+5. [CS321 Course Notes](https://sgfin.github.io/files/notes/CS321_Grosse_Lecture_Notes.pdf) by Roger Grosse.
 
 ## Websites and Blogs
 1. [r2d3](http://www.r2d3.us) nice visualizations for understanding ML techniques
@@ -20,6 +21,8 @@ This repository is a collection of various article links, websites, infographics
 10. [Google AI Blog](https://ai.googleblog.com)
 11. [Uber AI Labs](https://eng.uber.com/tag/uber-ai-labs/)
 12. [Jay Alammar's blog](http://jalammar.github.io/)
+13. [Berkeley AI Research](https://bair.berkeley.edu/blog/)
+14. [Sebastian Ruder](http://ruder.io/)
 
 ## Courses
 1. [cs231n](https://cs231n.github.io) Convolutional Neural Networks
@@ -32,6 +35,7 @@ This repository is a collection of various article links, websites, infographics
 8. [Deeplearning.ai](https://www.coursera.org/specializations/deep-learning), DL Specialization by Andrew Ng, Coursera
 9. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 10. [Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+11. Roger Grosse [CSC 321](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 
 ## Articles and Tutorials
 1. Understanding of [t-SNE](https://lvdmaaten.github.io/tsne/)
@@ -48,6 +52,7 @@ This repository is a collection of various article links, websites, infographics
 12. [Transpose Convolution](https://datascience.stackexchange.com/a/20176)
 13. [cs231n](http://cs231n.github.io/convolutional-networks/) Andrej Karpathy
 14. [Key Papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html) in Deep RL
+15. [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/), by Andrej Karpathy.
 
 ## Videos
 1. [Entropy, Cross-Entropy and KL Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8).
@@ -98,5 +103,6 @@ This repository is a collection of various article links, websites, infographics
 3. [Kaggle](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/discussion/30134)
 
 ## Other Guides
-1. [Incomplete DL Guide](https://github.com/sannykim/deep-learning-guide)
-2. [ML Resources](https://sgfin.github.io/learning-resources/)
+1. [ML Resources](https://sgfin.github.io/learning-resources/)
+2. [Incomplete DL Guide](https://github.com/sannykim/deep-learning-guide)
+
