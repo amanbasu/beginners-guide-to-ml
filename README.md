@@ -73,6 +73,7 @@ This repository is a collection of various article links, websites, infographics
 9. [CNN](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 10. [RNN](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 11. [AI/ML/DL](https://stanford.edu/~shervine/teaching/)
+12. [Deep Learning](https://github.com/amanbasu/beginners-guide-to-ml/blob/master/Deep%20Learning%20notes.pdf)
 
 ## GitHub Repositories
 1. Goku Mohandas [practicalAI](https://github.com/GokuMohandas/practicalAI)
