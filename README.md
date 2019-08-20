@@ -36,6 +36,7 @@ This repository is a collection of various article links, websites, infographics
 9. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 10. [Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 11. Roger Grosse [CSC 321](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
+12. [Computer Vision](https://pjreddie.com/courses/computer-vision/)
 
 ## Articles and Tutorials
 1. Understanding of [t-SNE](https://lvdmaaten.github.io/tsne/)
