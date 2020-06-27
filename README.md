@@ -109,4 +109,5 @@ This repository is a collection of various article links, websites, infographics
 ## Other Guides
 1. [ML Resources](https://sgfin.github.io/learning-resources/) by Sam Finlayson
 2. [Incomplete DL Guide](https://github.com/sannykim/deep-learning-guide) by Sanny Kim
+3. [At home with AI](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf) by DeepMind
 
