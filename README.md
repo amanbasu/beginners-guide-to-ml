@@ -24,7 +24,7 @@ This repository is a collection of various article links, websites, infographics
 13. [Berkeley AI Research](https://bair.berkeley.edu/blog/)
 14. [Sebastian Ruder](http://ruder.io/)
 15. [Facebook AI Blog](https://ai.facebook.com)
-16. [Signal processing](https://www.gaussianwaves.com)
+16. [Gaussian Waves](https://www.gaussianwaves.com) for signal processing
 
 ## Courses
 1. [cs231n](https://cs231n.github.io) Convolutional Neural Networks
